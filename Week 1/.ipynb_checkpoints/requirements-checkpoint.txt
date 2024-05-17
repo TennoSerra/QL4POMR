@@ -1,3 +1,11 @@
+jax
+flax
+huggingface-hub
+streamlit
+optax
+watchdog
+tables
+streamlit
 numpy
 pandas
 Pillow

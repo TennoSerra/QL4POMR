@@ -1,0 +1,13 @@
+jax
+flax
+huggingface-hub
+streamlit
+torch
+torchvision
+optax
+pandas
+matplotlib
+transformers
+watchdog
+tables
+streamlit
