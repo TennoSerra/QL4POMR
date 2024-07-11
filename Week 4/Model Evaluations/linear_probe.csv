@@ -1,0 +1,5 @@
+Model/Dataset,Alzheimer-MRI,chest-xray-classification,LungCancer4Types,skin-cancer
+bioclip,0.6094,0.9579,0.5933,0.8218
+biomedclip-pubmedbert-chuhac,0.5664,0.9579,0.6467,0.7652
+clipmd,0.5651,0.9536,0.5800,0.7640
+pubmed,0.5521,0.9356,0.4800,0.7480
