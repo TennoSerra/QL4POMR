@@ -15,3 +15,5 @@ Week 5,6/text-to-image-eval/
 /Models
 /Week 10/Checkpoint backups
 Week 10/model_checkpoint.pth
+/Week 12/logs
+/Week 12/processed_train_chunks
