@@ -18,3 +18,5 @@ Week 10/model_checkpoint.pth
 /Week 12/logs
 /Week 12/processed_train_chunks
 /Week 12/processed_validation_chunks
+/Week 12/checkpoints
+/Week 12/results
